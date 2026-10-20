@@ -1,0 +1,14 @@
+{
+    "appearance": {
+        "transparency": {
+            "enabled": true
+        }
+    },
+    "dashboard": {
+        "dragThreshold": 10,
+        "showOnHover": true
+    },
+    "launcher": {
+        "showOnHover": true
+    }
+}
